@@ -1,0 +1,4 @@
+print('NAMA = SURYA RAMDHANI')
+print('NIM = 24241144')
+print('ASAL = SUMBAWA BARAT')
+print('NOMOR KEBERUNTUNGAN = 2444')
